@@ -6,6 +6,7 @@ Welcome to my profile for assignment 1 for IT, in this page you will learn about
 
 Hello my name is Mitchell, My Student ID is S3856807 and my student email is S3856807@student.rmit.edu.au. I am currently 20 years old and i live in Melbourne Victoria. I was born in 1999 in south australia and moved up to the Northern Territory when i was 3 years old. I lived there for 10 years then moved down to New south wales. I continued to live there for about 3 more years and later moved to the final location where i am now, Victoria. My family consists of my Mom,Dad and little brother tyler. My Dad was born in England and moved over here when he was 10 while my Mum was born and raised here in Australia. My education to date consists of completing my VCE and graduating year 12 and also having a cert IV in Interactive Digital media.I have a white Shih Tzu named Oscar and my inrests include Photography and Gaming.An intresting fact about myself is that i have a massive scar behind my left ear which is due to a surgery i had when i was 15 where my inner ear was completely reconstructed due a Cholesteatoma. 
 
+
 ### Inrest in IT
 
 ##### What is my Inrest in IT?
@@ -16,6 +17,12 @@ I was oringally looking at RMIT when completing Year 12 VCE but decided to go wi
 
 ##### What Do i expect to learn from my Studies?
 Currently i am only doing 2 units. Introduction to Information Technology and Introduction to Programming. But what i expect to learn from my time at RMIT would mainly be the required and essential skills for a career within the IT industry. And inturms of my current Units i am studying would mainly be a general idea of each of the different routes i can take within IT and which subjects i can look further into and study more off.
+
+
+### Ideal Job
+
+##### What is my Ideal Job
+Although i havent got a 
 
 [Link](url) and ![Image](src)
 ```
