@@ -1,10 +1,10 @@
 ## Welcome to my Profle
 
-Welcome to my profile for assignment 1 for IT, in this page you will learn 
+Welcome to my profile for assignment 1 for IT, in this page you will learn about me, my intrsests in IT, Ideal job, a project idea of my own and variouse other things. 
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hello my name is Mitchell, My Student ID is S3856807 and my student email is S3856807@student.rmit.edu.au.I am currently 20 years old and i live in Melbourne Victoria.I was born in 1999 in south australia and moved up to the Northern Territory when i was 3 years old.I lived there for 10 years then moved down to New south wales.I continued to live there for about 3 more years and later moved to the final location where i am now, Victoria. My family consists of my Mom,Dad and little brother tyler.My Dad was born in England and moved over here when he was 10 while my Mum was born and raised here in Australia.My education to date consists of completeing my VCE and graduating year 12 and also having a cert IV in Interactive Digital media.An intresting fact about myself is that i have a massive scar behind my left ear which is due to a surgery i had when i was 15 where my inner ear was completely reconstructed due a Cholesteatoma. 
 
 ```markdown
 Syntax highlighted code block
