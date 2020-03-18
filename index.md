@@ -21,8 +21,17 @@ Currently i am only doing 2 units. Introduction to Information Technology and In
 
 ### Ideal Job
 
-##### What is my Ideal Job
-Although i havent got a 
+##### What is my ideal job?
+Although i havent got an exact idea on what i want my ideal job to be i have looked through some sites and have seen some jobs within the IT industry that have gotten my attention. After looking at Seek.com i have found a job that i may be intrusted in. Its a job offer for an IT Security Engineer at Treasury Wine Estates I will put an imagine of the job offer towards the end of this part of my profile. The reason this job is somewhat appealing to me is the fact that its in the security department, I have always been fond if Cyber/IT Security and my parents keep hastleing me to go into that department. So i feel as if this job is something that i would actually enjoy doing and not something that i will despise and not want to do.
+
+##### What Skills will i neeed for the job?
+from looking over the job advertisement i have discovered that i would need extensive experience within the security operations department as well as have extensive knowledge on different security products. It also lists that i will need epericen in now only log management or SIEM technologies but will also need to bve able to perform host-based forenseics that allowes to detect malicous artifacts. Lastly which isnt needed but to get a better chance at getting the job i will need to get a industry cerficicate.
+
+##### What Skills do i currneltly have?
+As it currently stands i do not have the required skills for the job in question. from the list of skills that i will need the only one that i have a somewhat understanding of is knowledge on different securty products. And even then its not that extensive as its only basic knowledge. but im hoping from the completing my uni course i will be able to get some more knowledege and meet the required skills in question.
+
+##### How will i achieve the Skills?
+My current plan to get the skills required for the job in question primarily revolves around my uni courses. I am hoping that from these courses i will get a better grasp at the cyber security department and learn some valuable skills that will allow me to perform my job to the best it can be.
 
 [Link](url) and ![Image](src)
 ```
