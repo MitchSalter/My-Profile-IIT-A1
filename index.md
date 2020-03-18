@@ -33,7 +33,7 @@ As it currently stands i do not have the required skills for the job in question
 ##### How will i achieve the Skills?
 My current plan to get the skills required for the job in question primarily revolves around my uni courses. I am hoping that from these courses i will get a better grasp at the cyber security department and learn some valuable skills that will allow me to perform my job to the best it can be.
 
-[Link](url) and ![Image](src)
+![Image](job.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
