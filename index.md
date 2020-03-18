@@ -63,18 +63,8 @@ When you first open the up on your desktop or phone you will be given a check bo
 ##### Tool and Technologies
 Firstly you will need a computer that is running a operating system such as Windows, MacOS and Linux.  You will also need the correct software that allows you to code in. You can use several different program languages to program the software the most common are Python, Java, HTLM and C++. Some software that uses these codes are the following MVS (Microsft Visual Studio), Notepad++,and Eclipse. You could also use Dreamweaver potentioally but that is mainly for web developing.
 ##### Skills Required
-
-##### What do these results mean to me?
-
-the following test was done at ![Link](https://www.16personalities.com/free-personality-test)
-the following test was done at ![Link](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
-the following test was done at ![Link](http://www.testmycreativity.com/)
+You will need a fair amount of Skill in programming using your desired codeing language. In turms of hardware as stated above you will need a working computer with working internet and the correct software installed to get started. If you dont already have a computer with internet it could be quite fesable depending on what computer you buy. You could buy a really powerful computer that costs thousands of dollors or you could buy a cheap computer that can be under $100 so it really depends how much many you have/want to spend.
+##### Outcome
+If the project is successful and app is developed as intended. Gamers around the world will be able to use this app with ease to help with finding a new video game to play. Ontop of that if it is well recieved I could potentioally make one for movies, tv shows or books so everyone will be able to find this app helpful one way or another.
 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MitchSalter/My-Profile-IIT-A1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
