@@ -38,11 +38,11 @@ My current plan to get the skills required for the job in question primarily rev
 ### Peronsal profile
 
 ##### Myers-briggs test
-![Image](Myers-Briggs test.png)
+![Image](test1.png)
 ##### Learning style test
-![Image](Learning Style.png)
+![Image](test2.png)
 ##### Creativity test
-![Image](creativity test.png)
+![Image](test3.png)
 
 ##### What do these results mean to me?
 personally i dont really like doing these tests as i like to think i know what i would be for each. But when the results come back with something i didnt expect i feel like i dont know really know if i should believe them or doubt myself. This puts a little bit of strain on me as i will constantly think about wether or not the tests actaully are correct or not.
