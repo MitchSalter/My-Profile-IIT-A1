@@ -34,9 +34,27 @@ As it currently stands i do not have the required skills for the job in question
 My current plan to get the skills required for the job in question primarily revolves around my uni courses. I am hoping that from these courses i will get a better grasp at the cyber security department and learn some valuable skills that will allow me to perform my job to the best it can be.
 
 ![Image](job.png)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Peronsal profile
+
+##### Myers-briggs test
+the following test was done at ![Link](https://www.16personalities.com/free-personality-test)
+![Image](Myers-Briggs test.png)
+##### Learning style test
+the following test was done at ![Link](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
+![Image](Learning Style.png)
+##### Creativity test
+the following test was done at ![Link](http://www.testmycreativity.com/)
+![Image](creativity test.png)
+
+##### What do these results mean to me?
+personally i dont really like doing these tests as i like to think i know what i would be for each. But when the results come back with something i didnt expect i feel like i dont know really know if i should believe them or doubt myself. This puts a little bit of strain on me as i will constantly think about wether or not the tests actaully are correct or not.
+
+##### How will these results affect my behaviour?
+The results from this test wont really affect how i behave in a team or a social setting as im not the type of person to how i act or behave just on what someone or something says. I may ask some of my close friends wether or not i should change so and so. But most of the time i will just end up staying the same as i am unless someone specifically asks me to act a certain way for a certain ocasion such as a formal ocasion. 
+
+##### How should i take this into account when forming a team
+As stated earlier i wont really change as much unless the occasion calls for it. But i will inform my team that for example im not the type of person to talk a lot and hopefully they understand that and do the talking insted.
 
 ### Jekyll Themes
 
