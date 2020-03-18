@@ -67,4 +67,9 @@ You will need a fair amount of Skill in programming using your desired codeing l
 ##### Outcome
 If the project is successful and app is developed as intended. Gamers around the world will be able to use this app with ease to help with finding a new video game to play. Ontop of that if it is well recieved I could potentioally make one for movies, tv shows or books so everyone will be able to find this app helpful one way or another.
 
-
+##### Refrences
+###### 16Personalities. 2020. Free Personality Test | 16Personalities. [online] Available at: <https://www.16personalities.com/free-personality-test> [Accessed 18 March 2020].
+###### Educationplanner.org. 2020. What's Your Learning Style? 20 Questions. [online] Available at: <http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml> [Accessed 18 March 2020].
+###### Testmycreativity.com. 2020. Free Online Creativity Test - Testmycreativity. [online] Available at: <http://www.testmycreativity.com/> [Accessed 18 March 2020].
+###### SEEK. 2020. [online] Available at: <https://www.seek.com.au/> [Accessed 18 March 2020].
+###### GitHub. 2020. Pages-Themes/Time-Machine. [online] Available at: <https://github.com/pages-themes/time-machine> [Accessed 18 March 2020].
