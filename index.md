@@ -38,13 +38,10 @@ My current plan to get the skills required for the job in question primarily rev
 ### Peronsal profile
 
 ##### Myers-briggs test
-the following test was done at ![Link](https://www.16personalities.com/free-personality-test)
 ![Image](Myers-Briggs test.png)
 ##### Learning style test
-the following test was done at ![Link](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
 ![Image](Learning Style.png)
 ##### Creativity test
-the following test was done at ![Link](http://www.testmycreativity.com/)
 ![Image](creativity test.png)
 
 ##### What do these results mean to me?
@@ -55,6 +52,13 @@ The results from this test wont really affect how i behave in a team or a social
 
 ##### How should i take this into account when forming a team
 As stated earlier i wont really change as much unless the occasion calls for it. But i will inform my team that for example im not the type of person to talk a lot and hopefully they understand that and do the talking insted.
+
+
+
+the following test was done at ![Link](https://www.16personalities.com/free-personality-test)
+the following test was done at ![Link](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
+the following test was done at ![Link](http://www.testmycreativity.com/)
+
 
 ### Jekyll Themes
 
